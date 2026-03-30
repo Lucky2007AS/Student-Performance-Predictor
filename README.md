@@ -54,4 +54,4 @@ This project shows how machine learning can help predict student performance.
 ---
 
 ## 👨‍💻 Author
-Your Name
+A P C Srikanth Reddy
