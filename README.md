@@ -50,8 +50,9 @@ This system uses machine learning to analyze student habits and predict their pe
 
 ## 📌 Conclusion
 This project shows how machine learning can help predict student performance.
+The model demonstrates a positive relationship between study habits and academic performance.
 
 ---
 
 ## 👨‍💻 Author
-A P C Srikanth Reddy
+Srikanth
