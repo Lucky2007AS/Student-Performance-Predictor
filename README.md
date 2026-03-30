@@ -1,58 +1,29 @@
-# 📊 Student Performance Prediction using Machine Learning
+# Student Performance Predictor
 
-## 📌 Problem Statement
-This project predicts student marks based on study hours, sleep, and attendance.
+## Description
+This project predicts student performance using machine learning.
 
----
+## Features
+- Uses study hours, sleep hours, attendance
+- Predicts marks using Linear Regression
+- Displays graph output
 
-## 🚀 Project Description
-This system uses machine learning to analyze student habits and predict their performance.
+## Files
+- project.py → main code
+- report.pdf → project report
+- code.png → code screenshot
+- output.png → output result
+- graph.png → visualization
 
----
-
-## ⚙️ Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-
----
-
-## 🧠 How It Works
-1. Data is created for students
-2. Model is trained using Linear Regression
-3. User enters values
-4. System predicts marks
-
----
-
-## ▶️ How to Run
+## How to Run
 1. Install Python
 2. Install libraries:
-   pip install pandas matplotlib scikit-learn
+   pip install pandas scikit-learn matplotlib
 3. Run:
    python project.py
 
----
+## Output Screenshots
 
-## 📸 Output Screenshots
-
-### Code
 ![Code](code.png)
-
-### Output
 ![Output](output.png)
-
-### Graph
 ![Graph](graph.png)
-
----
-
-## 📌 Conclusion
-This project shows how machine learning can help predict student performance.
-The model demonstrates a positive relationship between study habits and academic performance.
-
----
-
-## 👨‍💻 Author
-Srikanth
